@@ -89,7 +89,7 @@ Compatible with Hugging Face's from_pretrained()
 🤝 Credits
 Hugging Face Transformers
 
-Bhadresh Savani’s ELECTRA Emotion Model
+ELECTRA Emotion Model
 
 Kaggle community
 
