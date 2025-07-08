@@ -6,7 +6,7 @@ The goal is to build a reliable sentiment classifier for book reviews, handling 
 1. 🕸️ Web Scraping + Dataset Collection
    
 -Book reviews were scraped from Goodreads using requests + BeautifulSoup
--Also included a Kaggle dataset (~12,000 book reviews)
+-Also included a Kaggle dataset (~1500 book reviews)
 -Metadata extracted: review summary, number of votes, and genre
 
 2. 🏷️ Weak Supervision for Labeling
